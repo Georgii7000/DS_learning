@@ -1,1 +1,1 @@
-print("imitating work")
+print("I hATE work")
